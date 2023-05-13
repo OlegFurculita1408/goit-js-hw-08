@@ -1,5 +1,5 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-08.git",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://github.com/OlegFurculita1408/goit-js-hw-08.git",
@@ -26,7 +26,6 @@
     "parcel": "^2.6.0",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4",
-    "webpack": "^5.82.1",
     "webpack-cli": "^5.1.1"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
